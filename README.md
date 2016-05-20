@@ -7,6 +7,6 @@ Upon startup the app does a quick version check to see if there is a new version
 I built in a search function that searches for your search term on youtube and scrapes the first response.
 Output can be controlled, allowing you to decide between the video or just audio output.
 
-I do not take  responsibility for any user's actions. Enjoy
+I do not take  responsibility for any users actions. Enjoy
 
 ![Screenshot of the awesomeness](https://raw.githubusercontent.com/Jacksonville/YoutubeDL/master/ytd_gui.bmp)
