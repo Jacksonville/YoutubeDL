@@ -8,3 +8,5 @@ I built in a search function that searches for your search term on youtube and s
 Output can be controlled, allowing you to decide between the video or just audio output.
 
 I do not take  responsibility for any user's actions. Enjoy
+
+![Screenshot of the awesomeness](https://raw.githubusercontent.com/Jacksonville/YoutubeDL/master/ytd_gui.bmp)
