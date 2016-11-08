@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>474</width>
-    <height>473</height>
+    <height>327</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -185,16 +185,6 @@
     </property>
     <property name="text">
      <string>Download</string>
-    </property>
-   </widget>
-   <widget class="QPlainTextEdit" name="txtOutputText">
-    <property name="geometry">
-     <rect>
-      <x>10</x>
-      <y>290</y>
-      <width>451</width>
-      <height>141</height>
-     </rect>
     </property>
    </widget>
   </widget>
