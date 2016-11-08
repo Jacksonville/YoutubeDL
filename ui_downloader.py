@@ -2,7 +2,7 @@
 
 # Form implementation generated from reading ui file 'ytdownloader.ui'
 #
-# Created: Wed May 18 19:47:06 2016
+# Created: Mon Nov 07 16:26:36 2016
 #      by: pyside-uic 0.2.15 running on PySide 1.2.4
 #
 # WARNING! All changes made in this file will be lost!
@@ -12,7 +12,7 @@ from PySide import QtCore, QtGui
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
         MainWindow.setObjectName("MainWindow")
-        MainWindow.resize(474, 473)
+        MainWindow.resize(474, 327)
         self.centralwidget = QtGui.QWidget(MainWindow)
         self.centralwidget.setObjectName("centralwidget")
         self.groupBox = QtGui.QGroupBox(self.centralwidget)
@@ -84,9 +84,6 @@ class Ui_MainWindow(object):
         self.btnDownload = QtGui.QPushButton(self.centralwidget)
         self.btnDownload.setGeometry(QtCore.QRect(10, 260, 75, 23))
         self.btnDownload.setObjectName("btnDownload")
-        self.txtOutputText = QtGui.QPlainTextEdit(self.centralwidget)
-        self.txtOutputText.setGeometry(QtCore.QRect(10, 290, 451, 141))
-        self.txtOutputText.setObjectName("txtOutputText")
         MainWindow.setCentralWidget(self.centralwidget)
         self.menubar = QtGui.QMenuBar(MainWindow)
         self.menubar.setGeometry(QtCore.QRect(0, 0, 474, 21))
